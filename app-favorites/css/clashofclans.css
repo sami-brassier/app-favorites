@@ -1,0 +1,19 @@
+.title01 {
+    background-color: #ffbe45;
+    text-align: center;
+    background-image: url(../img/background_clash_of_clans.jpg);
+}
+.centralisemiddle {
+    text-align: center;
+}
+.highlight {
+    display: inline-block;
+}
+.highlight img:hover {
+    opacity: .5;
+}
+.centraliseimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

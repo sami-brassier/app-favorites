@@ -1,0 +1,19 @@
+.title01 {
+    background-color: #45a1ff;
+    text-align: center;
+    background-image: url(../img/background_boom_beach.jpg);
+}
+.centralisemiddle {
+    text-align: center;
+}
+.highlight {
+    display: inline-block;
+}
+.highlight img:hover {
+    opacity: .5;
+}
+.centraliseimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
